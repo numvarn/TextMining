@@ -1,0 +1,9 @@
+[
+  {
+    "lexitron" : "/Users/phisanshukkhi/ResearchCode/TextMining/mylexto/myLexTo/dictionary/lexitron.txt",
+    "herblist" : "/Users/phisanshukkhi/ResearchCode/TextMining/mylexto/myLexTo/dictionary/herblist.txt",
+    "properties" : "/Users/phisanshukkhi/ResearchCode/TextMining/mylexto/myLexTo/dictionary/properties.txt",
+    "stopwords" : "/Users/phisanshukkhi/ResearchCode/TextMining/mylexto/myLexTo/dictionary/stopwords.txt",
+    "symptoms" : "/Users/phisanshukkhi/ResearchCode/TextMining/mylexto/myLexTo/dictionary/symptoms.txt"
+  }
+]
